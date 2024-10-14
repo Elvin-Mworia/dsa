@@ -1,6 +1,6 @@
-# H1 **This is a repository for data structures that i have learned and implemented in the python language.**
+# **This is a repository for data structures that i have learned and implemented in the python language.**
 
-### H3 Books which i used to learn and implement the data structures include:
+### Books which i used to learn and implement the data structures include:
 
 1. Grokking Algorithms An illustrated guide for programmers and other curious people (Aditya Bhargava)
 
